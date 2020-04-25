@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Transaction\Transaction\bin\Transaction.dll.config
+C:\Users\hp\source\repos\Transaction\Transaction\bin\Transaction.dll
+C:\Users\hp\source\repos\Transaction\Transaction\bin\Transaction.pdb
+C:\Users\hp\source\repos\Transaction\Transaction\obj\Debug\TransactionService.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Transaction\Transaction\obj\Debug\TransactionService.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Transaction\Transaction\obj\Debug\Transaction.dll
+C:\Users\hp\source\repos\Transaction\Transaction\obj\Debug\Transaction.pdb

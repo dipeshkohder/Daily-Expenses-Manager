@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\bin\Debug\ExpensesManagerUser.exe.config
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\bin\Debug\ExpensesManagerUser.exe
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\bin\Debug\ExpensesManagerUser.pdb
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\obj\Debug\ExpensesManagerUser.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\obj\Debug\ExpensesManagerUser.Form1.resources
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\obj\Debug\ExpensesManagerUser.Properties.Resources.resources
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\obj\Debug\ExpensesManagerUser.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\obj\Debug\ExpensesManagerUser.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\obj\Debug\ExpensesManagerUser.exe
+C:\Users\hp\source\repos\ExpensesManagerUser\ExpensesManagerUser\obj\Debug\ExpensesManagerUser.pdb
